@@ -1,0 +1,7 @@
+Explicacion de conceptos:
+
+for: es un statement o declaracion que se utiliza para ejecutar un ciclo hasta que este sea falso, es decir, el ciclo se repetira la cantidad de veces que sea necesaria hasta que esta condicion establecida no se logre cumplir (false). Una de las ventajas es que se pueden dar varias instrucciones dentro del for.
+
+&&: es un operador logico, el significado es Y (AND) y su funcion es indicar si ambas expresiones que esta evaluando son verdaderas, de lo contrario arrojara un false
+||: es un operador logico, el significado es O (OR) y su funcion es indicar si alguna de las expresiones que esta evaluando es verdadera, si ambas resultan ser falsas, arrojara un false
+!: es un operador logico, el significado es NO (NOT) y su funcion es negar la expresion declarada.
