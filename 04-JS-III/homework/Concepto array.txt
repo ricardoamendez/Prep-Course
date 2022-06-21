@@ -1,0 +1,3 @@
+Explicacion del concepto array:
+
+Array es una especie de lista en donde me permite almacenar varios objetos, estos pueden ser numeros, strings, buleanos, undefined, nulls, etc. Se puede cambiar el contenido de los arreglos, ya sea agregando o sacando objetos del mismos. Tambien se pueden realizar arreglos dentro de arreglos y funciones.
