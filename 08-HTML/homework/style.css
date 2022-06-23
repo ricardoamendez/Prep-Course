@@ -1,19 +1,19 @@
-
-h1{
+h1 {
     color: dimgrey;
 }
-img{
+
+img {
     width: 400px;
 }
+
 #thirdDiv {
     width: 500px;
     height: 600px;
     background-color: peachpuff;
-}
-#thirdDiv {
     padding: 50px;
-    border: 10px solid currentcolor;
+    border: 10px brown dashed;
 }
+
 #spanid {
     font-size: 18px;
     margin: 50px;
